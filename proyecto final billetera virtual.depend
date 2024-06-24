@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1709035058 source:c:\users\estudiante\desktop\proyecto final billetera virtual\pila.c
+	"pila.h"
+
+1709035060 c:\users\estudiante\desktop\proyecto final billetera virtual\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1719196426 source:c:\users\estudiante\desktop\proyecto final billetera virtual\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+
